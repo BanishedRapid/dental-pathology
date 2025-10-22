@@ -2,7 +2,7 @@
   "name": "dental-pathology",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://banishedrapid.github.io/dental-pathology",
+  "homepage": "/",
   "dependencies": {
     "lucide-react": "^0.546.0",
     "react": "^19.2.0",
